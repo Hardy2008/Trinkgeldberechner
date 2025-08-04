@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Trinkgeldrechner</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="outerDiv">
+      <div id="innerDiv">
+        <h1>Trinkgeldrechner</h1>
+
+        <label for="betrag">Rechnungsbetrag:</label>
+
+        <input
+          type="number"
+          id="betrag"
+          placeholder="z. B. 48.50"
+          step="0.01"
+        />
+        <div id="betrag">
+          <select id="currencySelect">
+            <option value="EUR">Euro €</option>
+            <option value="USD">Dollar $</option>
+            <option value="GBP">Pounds £</option>
+            <option value="other">Anderes</option>
+          </select>
+        </div>
+
+        <label for="prozent">Trinkgeld (%):</label>
+        <input type="number" id="prozent" placeholder="z. B. 10" step="1" />
+
+        <label for="land">Übliche Prozente in diesem Land:</label>
+        <div id="LandUeblich">
+          <select id="countrySelect"></select>
+          <span id="UeblichAusgabe"></span>
+        </div>
+
+        <button onclick="berechneTrinkgeld()">Berechnen</button>
+        <div class="result" id="ergebnis"></div>
+      </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

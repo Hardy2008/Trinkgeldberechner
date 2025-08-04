@@ -1,0 +1,70 @@
+#currencySelect {
+  margin-top: 30px;
+  width: 100px;
+  font-size: 1rem;
+}
+#betrag {
+  display: flex;
+  margin-top: 10px;
+}
+#countrySelect {
+  width: 200px;
+}
+#LandUeblich {
+  display: flex;
+}
+#UeblichAusgabe {
+  margin: 5px;
+}
+#innerDiv {
+  width: 400px;
+  max-width: 400px;
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+#outerDiv {
+  display: flex;
+  justify-content: center;
+}
+body {
+  background-color: #e0ffff;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 2rem;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+label {
+  display: block;
+  margin-top: 1rem;
+}
+input {
+  width: 100%;
+  padding: 0.5rem;
+  margin-top: 0.3rem;
+  font-size: 1rem;
+  box-sizing: border-box;
+}
+button {
+  margin-top: 1.5rem;
+  width: 100%;
+  padding: 0.7rem;
+  font-size: 1rem;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  background: #0056b3;
+}
+.result {
+  margin-top: 1.5rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+}

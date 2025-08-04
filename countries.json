@@ -1,0 +1,366 @@
+[
+  {
+    "code": "AF",
+    "name": "Afghanistan",
+    "tips": "Keine spezifische Regel, 5–10 % kann höflich sein"
+  },
+  { "code": "AL", "name": "Albanien", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "DZ", "name": "Algerien", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "AD", "name": "Andorra", "tips": "5–10 %, ähnlich wie in Spanien" },
+  { "code": "AO", "name": "Angola", "tips": "5–10 % Trinkgeld üblich" },
+  {
+    "code": "AG",
+    "name": "Antigua und Barbuda",
+    "tips": "10–15 % in Restaurants"
+  },
+  { "code": "AR", "name": "Argentinien", "tips": "10 % in Restaurants üblich" },
+  { "code": "AM", "name": "Armenien", "tips": "5–10 % Trinkgeld üblich" },
+  {
+    "code": "AU",
+    "name": "Australien",
+    "tips": "Trinkgeld selten, 10 % bei sehr gutem Service"
+  },
+  { "code": "AT", "name": "Österreich", "tips": "5–10 %, oft aufgerundet" },
+  { "code": "AZ", "name": "Aserbaidschan", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "BS", "name": "Bahamas", "tips": "10–15 % Trinkgeld üblich" },
+  { "code": "BH", "name": "Bahrain", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "BD", "name": "Bangladesch", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "BB", "name": "Barbados", "tips": "10–15 % Trinkgeld üblich" },
+  { "code": "BY", "name": "Weißrussland", "tips": "5–10 % Trinkgeld üblich" },
+  {
+    "code": "BE",
+    "name": "Belgien",
+    "tips": "Service meist inkludiert, kleines Trinkgeld 5–10 %"
+  },
+  { "code": "BZ", "name": "Belize", "tips": "10 % Trinkgeld üblich" },
+  { "code": "BJ", "name": "Benin", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "BT", "name": "Bhutan", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "BO", "name": "Bolivien", "tips": "10 % Trinkgeld üblich" },
+  {
+    "code": "BA",
+    "name": "Bosnien und Herzegowina",
+    "tips": "5–10 % Trinkgeld üblich"
+  },
+  { "code": "BW", "name": "Botswana", "tips": "10 % Trinkgeld üblich" },
+  {
+    "code": "BR",
+    "name": "Brasilien",
+    "tips": "10 % Servicegebühr oft enthalten, extra Trinkgeld optional"
+  },
+  { "code": "BN", "name": "Brunei", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "BG", "name": "Bulgarien", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "BF", "name": "Burkina Faso", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "BI", "name": "Burundi", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "CV", "name": "Kap Verde", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "KH", "name": "Kambodscha", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "CM", "name": "Kamerun", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "CA", "name": "Kanada", "tips": "15–20 % in Restaurants" },
+  {
+    "code": "CF",
+    "name": "Zentralafrikanische Republik",
+    "tips": "5–10 % Trinkgeld üblich"
+  },
+  { "code": "TD", "name": "Tschad", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "CL", "name": "Chile", "tips": "10 % Trinkgeld üblich" },
+  {
+    "code": "CN",
+    "name": "China",
+    "tips": "Trinkgeld selten, in Touristenregionen manchmal erwartet"
+  },
+  { "code": "CO", "name": "Kolumbien", "tips": "10 % Trinkgeld üblich" },
+  { "code": "KM", "name": "Komoren", "tips": "5–10 % Trinkgeld üblich" },
+  {
+    "code": "CG",
+    "name": "Kongo (Brazzaville)",
+    "tips": "5–10 % Trinkgeld üblich"
+  },
+  {
+    "code": "CD",
+    "name": "Kongo (Kinshasa)",
+    "tips": "5–10 % Trinkgeld üblich"
+  },
+  { "code": "CR", "name": "Costa Rica", "tips": "10 % Trinkgeld üblich" },
+  { "code": "CI", "name": "Elfenbeinküste", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "HR", "name": "Kroatien", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "CU", "name": "Kuba", "tips": "Trinkgeld sehr geschätzt, 10 %" },
+  { "code": "CY", "name": "Zypern", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "CZ", "name": "Tschechien", "tips": "5–10 % Trinkgeld üblich" },
+  {
+    "code": "DK",
+    "name": "Dänemark",
+    "tips": "Trinkgeld nicht obligatorisch, 5–10 % bei sehr gutem Service"
+  },
+  { "code": "DJ", "name": "Dschibuti", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "DM", "name": "Dominica", "tips": "10–15 % Trinkgeld üblich" },
+  {
+    "code": "DO",
+    "name": "Dominikanische Republik",
+    "tips": "10 % Trinkgeld üblich"
+  },
+  { "code": "EC", "name": "Ecuador", "tips": "10 % Trinkgeld üblich" },
+  { "code": "EG", "name": "Ägypten", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "SV", "name": "El Salvador", "tips": "10 % Trinkgeld üblich" },
+  {
+    "code": "GQ",
+    "name": "Äquatorialguinea",
+    "tips": "5–10 % Trinkgeld üblich"
+  },
+  { "code": "ER", "name": "Eritrea", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "EE", "name": "Estland", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "SZ", "name": "Eswatini", "tips": "10 % Trinkgeld üblich" },
+  { "code": "ET", "name": "Äthiopien", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "FJ", "name": "Fidschi", "tips": "10 % Trinkgeld üblich" },
+  {
+    "code": "FI",
+    "name": "Finnland",
+    "tips": "Trinkgeld nicht üblich, 5–10 % bei sehr gutem Service"
+  },
+  {
+    "code": "FR",
+    "name": "Frankreich",
+    "tips": "Service meist inkludiert, 5–10 % extra wird geschätzt"
+  },
+  { "code": "GA", "name": "Gabun", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "GM", "name": "Gambia", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "GE", "name": "Georgien", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "DE", "name": "Deutschland", "tips": "5–10 %, oft aufgerundet" },
+  { "code": "GH", "name": "Ghana", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "GR", "name": "Griechenland", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "GD", "name": "Grenada", "tips": "10–15 % Trinkgeld üblich" },
+  { "code": "GT", "name": "Guatemala", "tips": "10 % Trinkgeld üblich" },
+  { "code": "GN", "name": "Guinea", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "GW", "name": "Guinea-Bissau", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "GY", "name": "Guyana", "tips": "10 % Trinkgeld üblich" },
+  { "code": "HT", "name": "Haiti", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "HN", "name": "Honduras", "tips": "10 % Trinkgeld üblich" },
+  { "code": "HU", "name": "Ungarn", "tips": "10 % Trinkgeld üblich" },
+  {
+    "code": "IS",
+    "name": "Island",
+    "tips": "Trinkgeld nicht üblich, bei sehr gutem Service 5–10 %"
+  },
+  { "code": "IN", "name": "Indien", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "ID", "name": "Indonesien", "tips": "5–10 % Trinkgeld üblich" },
+  {
+    "code": "IR",
+    "name": "Iran",
+    "tips": "Trinkgeld nicht üblich, aber 5–10 % wird geschätzt"
+  },
+  { "code": "IQ", "name": "Irak", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "IE", "name": "Irland", "tips": "10–15 % in Restaurants üblich" },
+  { "code": "IL", "name": "Israel", "tips": "10–15 % Trinkgeld üblich" },
+  {
+    "code": "IT",
+    "name": "Italien",
+    "tips": "Service oft inkludiert, 5–10 % extra wird geschätzt"
+  },
+  { "code": "JM", "name": "Jamaika", "tips": "10–15 % Trinkgeld üblich" },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "tips": "Trinkgeld unüblich und oft unangebracht"
+  },
+  { "code": "JO", "name": "Jordanien", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "KZ", "name": "Kasachstan", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "KE", "name": "Kenia", "tips": "10 % Trinkgeld üblich" },
+  {
+    "code": "KI",
+    "name": "Kiribati",
+    "tips": "Keine spezifische Regel, ca. 5–10 %"
+  },
+  { "code": "KW", "name": "Kuwait", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "KG", "name": "Kirgisistan", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "LA", "name": "Laos", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "LV", "name": "Lettland", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "LB", "name": "Libanon", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "LS", "name": "Lesotho", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "LR", "name": "Liberia", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "LY", "name": "Libyen", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "LI", "name": "Liechtenstein", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "LT", "name": "Litauen", "tips": "5–10 % Trinkgeld üblich" },
+  {
+    "code": "LU",
+    "name": "Luxemburg",
+    "tips": "Service meist inkludiert, kleines Trinkgeld 5–10 %"
+  },
+  { "code": "MG", "name": "Madagaskar", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "MW", "name": "Malawi", "tips": "5–10 % Trinkgeld üblich" },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "tips": "Servicegebühr oft inkludiert, kleines Trinkgeld 5–10 %"
+  },
+  {
+    "code": "MV",
+    "name": "Malediven",
+    "tips": "10 % Servicegebühr üblich, extra Trinkgeld optional"
+  },
+  { "code": "ML", "name": "Mali", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "MT", "name": "Malta", "tips": "5–10 % Trinkgeld üblich" },
+  {
+    "code": "MH",
+    "name": "Marshallinseln",
+    "tips": "Keine spezifische Regel, ca. 5–10 %"
+  },
+  { "code": "MR", "name": "Mauretanien", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "MU", "name": "Mauritius", "tips": "10 % Trinkgeld üblich" },
+  { "code": "MX", "name": "Mexiko", "tips": "10–15 % Trinkgeld üblich" },
+  {
+    "code": "FM",
+    "name": "Mikronesien",
+    "tips": "Keine spezifische Regel, ca. 5–10 %"
+  },
+  { "code": "MD", "name": "Moldawien", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "MC", "name": "Monaco", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "MN", "name": "Mongolei", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "ME", "name": "Montenegro", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "MA", "name": "Marokko", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "MZ", "name": "Mosambik", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "MM", "name": "Myanmar", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "NA", "name": "Namibia", "tips": "10 % Trinkgeld üblich" },
+  {
+    "code": "NR",
+    "name": "Nauru",
+    "tips": "Keine spezifische Regel, ca. 5–10 %"
+  },
+  { "code": "NP", "name": "Nepal", "tips": "5–10 % Trinkgeld üblich" },
+  {
+    "code": "NL",
+    "name": "Niederlande",
+    "tips": "Service meist inkludiert, kleines Trinkgeld 5–10 %"
+  },
+  {
+    "code": "NZ",
+    "name": "Neuseeland",
+    "tips": "Trinkgeld nicht erwartet, 10 % bei sehr gutem Service"
+  },
+  { "code": "NI", "name": "Nicaragua", "tips": "10 % Trinkgeld üblich" },
+  { "code": "NE", "name": "Niger", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "NG", "name": "Nigeria", "tips": "5–10 % Trinkgeld üblich" },
+  {
+    "code": "NO",
+    "name": "Norwegen",
+    "tips": "Trinkgeld nicht üblich, 5–10 % bei sehr gutem Service"
+  },
+  { "code": "OM", "name": "Oman", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "PK", "name": "Pakistan", "tips": "5–10 % Trinkgeld üblich" },
+  {
+    "code": "PW",
+    "name": "Palau",
+    "tips": "Keine spezifische Regel, ca. 5–10 %"
+  },
+  { "code": "PA", "name": "Panama", "tips": "10 % Trinkgeld üblich" },
+  {
+    "code": "PG",
+    "name": "Papua-Neuguinea",
+    "tips": "5–10 % Trinkgeld üblich"
+  },
+  { "code": "PY", "name": "Paraguay", "tips": "10 % Trinkgeld üblich" },
+  { "code": "PE", "name": "Peru", "tips": "10 % Trinkgeld üblich" },
+  { "code": "PH", "name": "Philippinen", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "PL", "name": "Polen", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "PT", "name": "Portugal", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "QA", "name": "Katar", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "RO", "name": "Rumänien", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "RU", "name": "Russland", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "RW", "name": "Ruanda", "tips": "5–10 % Trinkgeld üblich" },
+  {
+    "code": "KN",
+    "name": "St. Kitts und Nevis",
+    "tips": "10–15 % Trinkgeld üblich"
+  },
+  { "code": "LC", "name": "St. Lucia", "tips": "10–15 % Trinkgeld üblich" },
+  {
+    "code": "VC",
+    "name": "St. Vincent und die Grenadinen",
+    "tips": "10–15 % Trinkgeld üblich"
+  },
+  { "code": "WS", "name": "Samoa", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "SM", "name": "San Marino", "tips": "5–10 % Trinkgeld üblich" },
+  {
+    "code": "ST",
+    "name": "São Tomé und Príncipe",
+    "tips": "5–10 % Trinkgeld üblich"
+  },
+  { "code": "SA", "name": "Saudi-Arabien", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "SN", "name": "Senegal", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "RS", "name": "Serbien", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "SC", "name": "Seychellen", "tips": "10 % Trinkgeld üblich" },
+  { "code": "SL", "name": "Sierra Leone", "tips": "5–10 % Trinkgeld üblich" },
+  {
+    "code": "SG",
+    "name": "Singapur",
+    "tips": "Trinkgeld nicht üblich, manchmal 5–10 % in Hotels"
+  },
+  { "code": "SK", "name": "Slowakei", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "SI", "name": "Slowenien", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "SB", "name": "Salomonen", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "SO", "name": "Somalia", "tips": "Keine klare Regel, ca. 5–10 %" },
+  { "code": "ZA", "name": "Südafrika", "tips": "10–15 % Trinkgeld üblich" },
+  { "code": "ES", "name": "Spanien", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "LK", "name": "Sri Lanka", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "SD", "name": "Sudan", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "SR", "name": "Suriname", "tips": "10 % Trinkgeld üblich" },
+  {
+    "code": "SE",
+    "name": "Schweden",
+    "tips": "Trinkgeld nicht üblich, 5–10 % bei sehr gutem Service"
+  },
+  {
+    "code": "CH",
+    "name": "Schweiz",
+    "tips": "Service oft inkludiert, kleines Trinkgeld 5–10 %"
+  },
+  { "code": "SY", "name": "Syrien", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "TJ", "name": "Tadschikistan", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "TZ", "name": "Tansania", "tips": "10 % Trinkgeld üblich" },
+  { "code": "TH", "name": "Thailand", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "TL", "name": "Timor-Leste", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "TG", "name": "Togo", "tips": "5–10 % Trinkgeld üblich" },
+  {
+    "code": "TO",
+    "name": "Tonga",
+    "tips": "Keine spezifische Regel, ca. 5–10 %"
+  },
+  {
+    "code": "TT",
+    "name": "Trinidad und Tobago",
+    "tips": "10–15 % Trinkgeld üblich"
+  },
+  { "code": "TN", "name": "Tunesien", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "TR", "name": "Türkei", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "TM", "name": "Turkmenistan", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "UG", "name": "Uganda", "tips": "10 % Trinkgeld üblich" },
+  { "code": "UA", "name": "Ukraine", "tips": "5–10 % Trinkgeld üblich" },
+  {
+    "code": "AE",
+    "name": "Vereinigte Arabische Emirate",
+    "tips": "5–10 % Trinkgeld üblich"
+  },
+  {
+    "code": "GB",
+    "name": "Vereinigtes Königreich",
+    "tips": "10–15 % Trinkgeld üblich"
+  },
+  {
+    "code": "US",
+    "name": "Vereinigte Staaten von Amerika",
+    "tips": "15–20 % Trinkgeld üblich"
+  },
+  { "code": "UY", "name": "Uruguay", "tips": "10 % Trinkgeld üblich" },
+  { "code": "UZ", "name": "Usbekistan", "tips": "5–10 % Trinkgeld üblich" },
+  {
+    "code": "VU",
+    "name": "Vanuatu",
+    "tips": "Keine spezifische Regel, ca. 5–10 %"
+  },
+  { "code": "VE", "name": "Venezuela", "tips": "10 % Trinkgeld üblich" },
+  {
+    "code": "VN",
+    "name": "Vietnam",
+    "tips": "Trinkgeld nicht üblich, 5–10 % in touristischen Gebieten"
+  },
+  { "code": "YE", "name": "Jemen", "tips": "5–10 % Trinkgeld üblich" },
+  { "code": "ZM", "name": "Sambia", "tips": "10 % Trinkgeld üblich" },
+  { "code": "ZW", "name": "Simbabwe", "tips": "10 % Trinkgeld üblich" }
+]
